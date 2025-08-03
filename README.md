@@ -1,3 +1,4 @@
+![Repo Size](https://img.shields.io/github/repo-size/Kumardangat/Database-Project)
 # Database Project
 
 This is a simple SQL-based project to demonstrate:
